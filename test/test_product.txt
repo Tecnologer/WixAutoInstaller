@@ -1,0 +1,4 @@
+<?define AppVersion    = "0.0.1.004" ?>
+  <?define AppName       = "Font Installer"?>
+  <?define InstallDir    = "Font Installer"?>
+  <?define ProductGUID   = "b4ef06c5-ef06-206e-efb4-3080820a8030" ?>
